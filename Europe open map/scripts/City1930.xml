@@ -1656,4 +1656,196 @@
         <REGION>2</REGION>
         <BUYRATE>1.22849</BUYRATE>
     </City>
+    <City>
+        <ID id="70"/>
+        <NAME name="Mladá Boleslav"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="17000"/>
+        <POPGROWTH pg="1.001"/>
+        <CAPITA cap="20"/>
+        <ECOGROWTH ecog="1.001"/>
+        <RESOURCES res="1"/>
+        <GAS gastax="1"/>
+        <INF infit="1"/>
+        <SKILL ski="1"/>
+        <WAGE empwage="8"/>
+        <MNFBASE manub="1"/>
+        <MANUGROWTH manug="1.0"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.10"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS lat="50.410258" long="14.910272"/>
+        <REGION>2</REGION>
+        <BUYRATE>1</BUYRATE>
+    </City>
+    <City>
+        <ID id="71"/>
+        <NAME name="Kvasiny"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="17000"/>
+        <POPGROWTH pg="1.001"/>
+        <CAPITA cap="20"/>
+        <ECOGROWTH ecog="1.001"/>
+        <RESOURCES res="1"/>
+        <GAS gastax="1"/>
+        <INF infit="1"/>
+        <SKILL ski="1"/>
+        <WAGE empwage="8"/>
+        <MNFBASE manub="1"/>
+        <MANUGROWTH manug="1.0"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.10"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS lat="50.204221" long="16.257796"/>
+        <REGION>2</REGION>
+        <BUYRATE>1</BUYRATE>
+    </City>
+    <City>
+        <ID id="72"/>
+        <NAME name="Kopřivnice"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="17000"/>
+        <POPGROWTH pg="1.001"/>
+        <CAPITA cap="20"/>
+        <ECOGROWTH ecog="1.001"/>
+        <RESOURCES res="1"/>
+        <GAS gastax="1"/>
+        <INF infit="1"/>
+        <SKILL ski="1"/>
+        <WAGE empwage="8"/>
+        <MNFBASE manub="1"/>
+        <MANUGROWTH manug="1.0"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.10"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS lat="49.594276" long="18.152731"/>
+        <REGION>2</REGION>
+        <BUYRATE>1</BUYRATE>
+    </City>
+    <City>
+        <ID id="73"/>
+        <NAME name="Nošovice"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="7000"/>
+        <POPGROWTH pg="1.001"/>
+        <CAPITA cap="20"/>
+        <ECOGROWTH ecog="1.001"/>
+        <RESOURCES res="1"/>
+        <GAS gastax="1"/>
+        <INF infit="1"/>
+        <SKILL ski="1"/>
+        <WAGE empwage="8"/>
+        <MNFBASE manub="1"/>
+        <MANUGROWTH manug="1.0"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.10"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS lat="49.659203" long="18.438598"/>
+        <REGION>2</REGION>
+        <BUYRATE>1</BUYRATE>
+    </City>
+    <City>
+        <ID id="74"/>
+        <NAME name="Kolín"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="32000"/>
+        <POPGROWTH pg="1.001"/>
+        <CAPITA cap="20"/>
+        <ECOGROWTH ecog="1.001"/>
+        <RESOURCES res="1"/>
+        <GAS gastax="1"/>
+        <INF infit="1"/>
+        <SKILL ski="1"/>
+        <WAGE empwage="8"/>
+        <MNFBASE manub="1"/>
+        <MANUGROWTH manug="1.0"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.10"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS lat="50.0284" long="15.2011"/>
+        <REGION>2</REGION>
+        <BUYRATE>1</BUYRATE>
+    </City>
+    <City>
+        <ID id="75"/>
+        <NAME name="Vrchlabí"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="12000"/>
+        <POPGROWTH pg="1.001"/>
+        <CAPITA cap="20"/>
+        <ECOGROWTH ecog="1.001"/>
+        <RESOURCES res="1"/>
+        <GAS gastax="1"/>
+        <INF infit="1"/>
+        <SKILL ski="1"/>
+        <WAGE empwage="8"/>
+        <MNFBASE manub="1"/>
+        <MANUGROWTH manug="1.0"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.10"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS lat="50.6277" long="15.6115"/>
+        <REGION>2</REGION>
+        <BUYRATE>1</BUYRATE>
+    </City>
+    <City>
+        <ID id="76"/>
+        <NAME name="Žilina"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="81000"/>
+        <POPGROWTH pg="1.001"/>
+        <CAPITA cap="20"/>
+        <ECOGROWTH ecog="1.001"/>
+        <RESOURCES res="1"/>
+        <GAS gastax="1"/>
+        <INF infit="1"/>
+        <SKILL ski="1"/>
+        <WAGE empwage="8"/>
+        <MNFBASE manub="1"/>
+        <MANUGROWTH manug="1.0"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.10"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS lat="49.2238" long="18.7394"/>
+        <REGION>2</REGION>
+        <BUYRATE>1</BUYRATE>
+    </City>
+    <City>
+        <ID id="77"/>
+        <NAME name="Trnava"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="65000"/>
+        <POPGROWTH pg="1.001"/>
+        <CAPITA cap="20"/>
+        <ECOGROWTH ecog="1.001"/>
+        <RESOURCES res="1"/>
+        <GAS gastax="1"/>
+        <INF infit="1"/>
+        <SKILL ski="1"/>
+        <WAGE empwage="8"/>
+        <MNFBASE manub="1"/>
+        <MANUGROWTH manug="1.0"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.10"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS lat="48.3774" long="17.5872"/>
+        <REGION>2</REGION>
+        <BUYRATE>1</BUYRATE>
+    </City>
 </CreateCityDB>

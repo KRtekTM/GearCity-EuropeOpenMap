@@ -2357,6 +2357,14 @@
                 <cityChange id="64" gov="-1"/>
                 <cityChange id="65" gov="-1"/>
                 <cityChange id="47" gov="-1"/>
+                <cityChange id="70" gov="-1"/>
+                <cityChange id="71" gov="-1"/>
+                <cityChange id="72" gov="-1"/>
+                <cityChange id="73" gov="-1"/>
+                <cityChange id="74" gov="-1"/>
+                <cityChange id="75" gov="-1"/>
+                <cityChange id="76" gov="-1"/>
+                <cityChange id="77" gov="-1"/>
             </WorldEvts>
             <NewsEvts>
                 <comment glow="1" localization="1" type="1" headline="100118" body="100119" image="1914GreatWarStart.jpg"/>
@@ -3048,6 +3056,14 @@
             <WorldEvts>
                 <cityChange id="48" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
                 <cityChange id="50" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="70" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="71" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="72" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="73" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="74" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="75" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="76" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="77" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
             </WorldEvts>
             <NewsEvts>
                 <comment glow="1" localization="1" type="1" headline="100168" body="100169" image="1918AustriaDissolved.png"/>
@@ -3093,6 +3109,14 @@
                 <cityChange id="37" gov="1"/>
                 <cityChange id="38" gov="1"/>
                 <cityChange id="48" gov="1"/>
+                <cityChange id="70" gov="1"/>
+                <cityChange id="71" gov="1"/>
+                <cityChange id="72" gov="1"/>
+                <cityChange id="73" gov="1"/>
+                <cityChange id="74" gov="1"/>
+                <cityChange id="75" gov="1"/>
+                <cityChange id="76" gov="1"/>
+                <cityChange id="77" gov="1"/>
                 <cityChange id="49" gov="1" Nation="German-Austria" Flag="Austria.dds"/>
                 <cityChange id="50" gov="1"/>
                 <cityChange id="51" gov="1" Nation="Hungary" Flag="Hungary.dds"/>
@@ -3354,6 +3378,14 @@
             <WorldEvts>
                 <cityChange id="50" Nation="Czechoslovakia" Flag="Czech.dds"/>
                 <cityChange id="48" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="70" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="71" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="72" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="73" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="74" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="75" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="76" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="77" Nation="Czechoslovakia" Flag="Czech.dds"/>
             </WorldEvts>
             <NewsEvts>
                 <comment localization="1" type="1" headline="100216" body="100217" image=""/>
@@ -6716,6 +6748,12 @@
             <WorldEvts>
                 <cityChange id="48" Nation="Germany" Flag="3rdGerman.dds"/>
                 <cityChange id="50" Nation="Germany" Flag="3rdGerman.dds"/>
+                <cityChange id="70" Nation="Germany" Flag="3rdGerman.dds"/>
+                <cityChange id="71" Nation="Germany" Flag="3rdGerman.dds"/>
+                <cityChange id="72" Nation="Germany" Flag="3rdGerman.dds"/>
+                <cityChange id="73" Nation="Germany" Flag="3rdGerman.dds"/>
+                <cityChange id="74" Nation="Germany" Flag="3rdGerman.dds"/>
+                <cityChange id="75" Nation="Germany" Flag="3rdGerman.dds"/>
             </WorldEvts>
             <NewsEvts/>
             <GameEvts>
@@ -6808,6 +6846,8 @@
         <turn t="3">
             <WorldEvts>
                 <cityChange id="50" Nation="Slovak Republic" Flag="Slovakia.dds"/>
+                <cityChange id="76" Nation="Slovak Republic" Flag="Slovakia.dds"/>
+                <cityChange id="77" Nation="Slovak Republic" Flag="Slovakia.dds"/>
             </WorldEvts>
             <NewsEvts>
                 <comment localization="1" type="1" headline="100540" body="100541" image=""/>
@@ -6918,6 +6958,14 @@
                 <cityChange id="46" gov="-2" Nation="Germany" Flag="3rdGerman.dds"/>
                 <cityChange id="47" gov="-2" Nation="Germany" Flag="3rdGerman.dds"/>
                 <cityChange id="48" gov="-2"/>
+                <cityChange id="70" gov="-2"/>
+                <cityChange id="71" gov="-2"/>
+                <cityChange id="72" gov="-2"/>
+                <cityChange id="73" gov="-2"/>
+                <cityChange id="74" gov="-2"/>
+                <cityChange id="75" gov="-2"/>
+                <cityChange id="76" gov="-2"/>
+                <cityChange id="77" gov="-2"/>
                 <cityChange id="49" gov="-2"/>
                 <cityChange id="50" gov="-2"/>
                 <cityChange id="56" gov="0" Nation="Germany" Flag="3rdGerman.dds"/>
@@ -7867,6 +7915,8 @@
         <turn t="4">
             <WorldEvts>
                 <cityChange id="50" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="76" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="77" Nation="Czechoslovakia" Flag="Czech.dds"/>
                 <cityChange id="49" Nation="Austria" Flag="Austria.dds"/>
             </WorldEvts>
             <NewsEvts>
@@ -7883,6 +7933,12 @@
             <WorldEvts>
                 <cityChange id="52" Nation="Yugoslavia" Flag="Croatia1945.dds"/>
                 <cityChange id="48" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="71" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="72" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="73" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="70" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="74" Nation="Czechoslovakia" Flag="Czech.dds"/>
+                <cityChange id="75" Nation="Czechoslovakia" Flag="Czech.dds"/>
                 <cityChange id="13" Nation="France" Flag="France.dds"/>
                 <cityChange id="14" Nation="France" Flag="France.dds"/>
                 <cityChange id="15" Nation="France" Flag="France.dds"/>
@@ -7985,6 +8041,14 @@
                 <cityChange id="46" gov="1"/>
                 <cityChange id="47" gov="1"/>
                 <cityChange id="48" gov="1"/>
+                <cityChange id="70" gov="1"/>
+                <cityChange id="71" gov="1"/>
+                <cityChange id="72" gov="1"/>
+                <cityChange id="73" gov="1"/>
+                <cityChange id="74" gov="1"/>
+                <cityChange id="75" gov="1"/>
+                <cityChange id="76" gov="1"/>
+                <cityChange id="77" gov="1"/>
                 <cityChange id="49" gov="1"/>
                 <cityChange id="50" gov="1"/>
                 <cityChange id="51" gov="1" Nation="Hungary" Flag="Hungary1946.dds"/>
@@ -16034,6 +16098,14 @@
             <WorldEvts>
                 <cityChange id="55" gov="1" Nation="Romania" Flag="Romania.dds"/>
                 <cityChange id="48" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="70" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="71" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="72" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="73" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="74" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="75" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="76" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
+                <cityChange id="77" Nation="Czechoslovakia" Flag="Czech1918.dds"/>
             </WorldEvts>
             <NewsEvts>
                 <comment localization="1" type="1" headline="101392" body="101393" image="1990Panama.jpg"/>
@@ -16651,7 +16723,15 @@
         <turn t="1">
             <WorldEvts>
                 <cityChange id="48" Nation="Czech Republic" Flag="Czech.dds"/>
+                <cityChange id="70" Nation="Czech Republic" Flag="Czech.dds"/>
+                <cityChange id="71" Nation="Czech Republic" Flag="Czech.dds"/>
+                <cityChange id="72" Nation="Czech Republic" Flag="Czech.dds"/>
+                <cityChange id="73" Nation="Czech Republic" Flag="Czech.dds"/>
+                <cityChange id="74" Nation="Czech Republic" Flag="Czech.dds"/>
+                <cityChange id="75" Nation="Czech Republic" Flag="Czech.dds"/>
                 <cityChange id="50" Nation="Slovakia" Flag="Slovakia.dds"/>
+                <cityChange id="76" Nation="Slovakia" Flag="Slovakia.dds"/>
+                <cityChange id="77" Nation="Slovakia" Flag="Slovakia.dds"/>
             </WorldEvts>
             <NewsEvts>
                 <comment localization="1" type="1" headline="101512" body="101513" image=""/>
