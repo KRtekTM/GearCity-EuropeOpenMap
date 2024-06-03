@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AINode>
+    <Company ID="1" Name="UD Cars" Active="1" OwnerID="1" HQ="7" Founded="1901" Death="2025" Logo="ad.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="2" Name="Addlore" Active="1" OwnerID="2" HQ="28" Founded="1900" Death="1957" Logo="adlur.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="3" Name="ACA" Active="1" OwnerID="3" HQ="25" Founded="1919" Death="1929" Logo="aca.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="4" Name="Alzam" Active="1" OwnerID="4" HQ="18" Founded="1983" Death="2025" Logo="Alzam.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="5" Name="Air" Active="1" OwnerID="5" HQ="48" Founded="1929" Death="1947" Logo="airo.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="6" Name="AOS" Active="1" OwnerID="6" HQ="7" Founded="1911" Death="1915" Logo="agp.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="7" Name="Abla" Active="1" OwnerID="7" HQ="17" Founded="1913" Death="1928" Logo="abla.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="8" Name="Albert" Active="1" OwnerID="8" HQ="31" Founded="1978" Death="2025" Logo="albert.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="9" Name="Alpleon" Active="1" OwnerID="9" HQ="3" Founded="1899" Death="2025" Logo="ablion.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="10" Name="Beta Aroma" Active="1" OwnerID="10" HQ="33" Founded="1907" Death="2025" Logo="alpharomeo.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="11" Name="McLord" Active="1" OwnerID="11" HQ="7" Founded="1936" Death="1966" Logo="allord.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="12" Name="Allnight n Potatoes" Active="1" OwnerID="12" HQ="6" Founded="1898" Death="1925" Logo="allnights.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="13" Name="Afern" Active="1" OwnerID="13" HQ="17" Founded="1955" Death="1995" Logo="alfern.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="14" Name="Tallah" Active="1" OwnerID="14" HQ="54" Founded="1962" Death="1978" Logo="alla.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="15" Name="Elvis" Active="1" OwnerID="15" HQ="6" Founded="1919" Death="1967" Logo="elvis.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="16" Name="Amolacar" Active="1" OwnerID="16" HQ="17" Founded="1921" Death="1931" Logo="amolacar.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="17" Name="Asaladini" Active="1" OwnerID="17" HQ="38" Founded="1921" Death="1931" Logo="asaladini.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="18" Name="Apol" Active="1" OwnerID="18" HQ="20" Founded="1961" Death="2025" Logo="apol.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="19" Name="Apellon" Active="1" OwnerID="19" HQ="26" Founded="1910" Death="1927" Logo="apellon.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="20" Name="Aguleo" Active="1" OwnerID="20" HQ="32" Founded="1906" Death="1917" Logo="aquala.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="21" Name="Rash" Active="1" OwnerID="21" HQ="7" Founded="1999" Death="2025" Logo="rash.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="22" Name="Anden" Active="1" OwnerID="22" HQ="6" Founded="1912" Death="1916" Logo="anden.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="23" Name="Argola" Active="1" OwnerID="23" HQ="3" Founded="1900" Death="1990" Logo="argola.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="24" Name="Amores" Active="1" OwnerID="24" HQ="17" Founded="1903" Death="1938" Logo="areis.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="25" Name="Strongarm Sidney" Active="1" OwnerID="25" HQ="6" Founded="1902" Death="1960" Logo="strongarm.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="26" Name="Romania Auto" Active="1" OwnerID="26" HQ="55" Founded="1957" Death="2006" Logo="rao.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="27" Name="Aaron Johnson" Active="1" OwnerID="27" HQ="3" Founded="1896" Death="1931" Logo="aaron.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="28" Name="Tegito" Active="1" OwnerID="28" HQ="24" Founded="2006" Death="2012" Logo="artigo.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="29" Name="Aszarco" Active="1" OwnerID="29" HQ="6" Founded="1995" Death="2025" Logo="ascaro.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="30" Name="Marlin Aleys" Active="1" OwnerID="30" HQ="6" Founded="1913" Death="2025" Logo="marlinauston.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="31" Name="Atickia" Active="1" OwnerID="31" HQ="54" Founded="1958" Death="1977" Logo="atickia.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="32" Name="Owlly" Active="1" OwnerID="32" HQ="30" Founded="1900" Death="2025" Logo="owldee.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="33" Name="Alstone Feely" Active="1" OwnerID="33" HQ="6" Founded="1952" Death="1972" Logo="alstonefeely.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="34" Name="Roober" Active="1" OwnerID="34" HQ="6" Founded="1981" Death="2000" Logo="rober.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="35" Name="Astro Damelore" Active="1" OwnerID="35" HQ="49" Founded="1899" Death="1934" Logo="astro.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="36" Name="Autobikini" Active="1" OwnerID="36" HQ="33" Founded="1955" Death="1995" Logo="autobikini.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="37" Name="ZAV" Active="1" OwnerID="37" HQ="64" Founded="1966" Death="2025" Logo="zav.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="38" Name="Autovista" Active="1" OwnerID="38" HQ="6" Founded="1935" Death="1938" Logo="autovista.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="39" Name="Eisenwerk" Active="1" OwnerID="39" HQ="26" Founded="1898" Death="1990" Logo="eisenwerk.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="40" Name="Awicker" Active="1" OwnerID="40" HQ="26" Founded="1955" Death="2025" Logo="awicker.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="41" Name="Ballet" Active="1" OwnerID="41" HQ="17" Founded="1905" Death="1932" Logo="ballet.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="42" Name="Bammani Automeni" Active="1" OwnerID="42" HQ="35" Founded="1946" Death="1992" Logo="bammani.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="43" Name="Bakas" Active="1" OwnerID="43" HQ="26" Founded="1961" Death="1991" Logo="bakas.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="44" Name="Seed Cars" Active="1" OwnerID="44" HQ="6" Founded="1919" Death="1929" Logo="seed.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="45" Name="Badelie" Active="1" OwnerID="45" HQ="17" Founded="1910" Death="1925" Logo="badelie.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="46" Name="Bayless" Active="1" OwnerID="46" HQ="6" Founded="1919" Death="1931" Logo="bayless.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="47" Name="Bellesez" Active="1" OwnerID="47" HQ="5" Founded="1897" Death="1925" Logo="bellesez.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="48" Name="Benshort" Active="1" OwnerID="48" HQ="7" Founded="1906" Death="1913" Logo="benshort.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="49" Name="Ben Lee" Active="1" OwnerID="49" HQ="5" Founded="1919" Death="2025" Logo="binley.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="50" Name="Blizsea" Active="1" OwnerID="50" HQ="28" Founded="1886" Death="1926" Logo="binz.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="51" Name="Burklee" Active="1" OwnerID="51" HQ="7" Founded="1956" Death="1961" Logo="burklee.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="52" Name="Burly" Active="1" OwnerID="52" HQ="18" Founded="1894" Death="1967" Logo="burly.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="53" Name="Bignuns" Active="1" OwnerID="53" HQ="17" Founded="1918" Death="1931" Logo="bignuns.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="54" Name="Biscuit" Active="1" OwnerID="54" HQ="12" Founded="1953" Death="1963" Logo="biscuit.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="55" Name="Butter Motor Corp" Active="1" OwnerID="55" HQ="27" Founded="1971" Death="2025" Logo="butter.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="56" Name="Bizzaro" Active="1" OwnerID="56" HQ="34" Founded="1964" Death="1969" Logo="bizzaro.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="57" Name="English Motors" Active="1" OwnerID="57" HQ="6" Founded="1952" Death="1968" Logo="emc.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="58" Name="All Stones Motors" Active="1" OwnerID="58" HQ="6" Founded="1905" Death="1952" Logo="allstone.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="59" Name="BW" Active="1" OwnerID="59" HQ="30" Founded="1927" Death="2025" Logo="bwm.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="60" Name="Bollock Nutters" Active="1" OwnerID="60" HQ="17" Founded="1923" Death="1935" Logo="bollock.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="61" Name="James Cars" Active="1" OwnerID="61" HQ="5" Founded="1949" Death="1974" Logo="james.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="62" Name="Bogword" Active="1" OwnerID="62" HQ="23" Founded="1929" Death="1961" Logo="bogword.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="63" Name="McBrilser" Active="1" OwnerID="63" HQ="17" Founded="1902" Death="1930" Logo="brilser.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="64" Name="Brenelor" Active="1" OwnerID="64" HQ="25" Founded="1908" Death="1933" Logo="brenelor.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="65" Name="Barstool" Active="1" OwnerID="65" HQ="7" Founded="1946" Death="2025" Logo="barstool.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="66" Name="English Layman" Active="1" OwnerID="66" HQ="6" Founded="1968" Death="1988" Logo="englishlayman.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="67" Name="English Salmon" Active="1" OwnerID="67" HQ="7" Founded="1934" Death="1939" Logo="englishsalmon.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="68" Name="Bratwurst" Active="1" OwnerID="68" HQ="29" Founded="1950" Death="1958" Logo="bratwurst.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="69" Name="Shield" Active="1" OwnerID="69" HQ="7" Founded="1947" Death="1962" Logo="shield.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="70" Name="Buguesto" Active="1" OwnerID="70" HQ="18" Founded="1909" Death="1963" Logo="buttgotti.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="71" Name="Bumguard" Active="1" OwnerID="71" HQ="30" Founded="1934" Death="1945" Logo="bumguard.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="72" Name="Cowcottle" Active="1" OwnerID="72" HQ="6" Founded="1913" Death="1926" Logo="cowcottle.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="73" Name="Sirapia" Active="1" OwnerID="73" HQ="7" Founded="2006" Death="2025" Logo="cuppura.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="74" Name="Cayalili" Active="1" OwnerID="74" HQ="33" Founded="1939" Death="2025" Logo="cayalili.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="75" Name="Carozerica" Active="1" OwnerID="75" HQ="33" Founded="1849" Death="1952" Logo="carozerica.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="76" Name="Ciano" Active="1" OwnerID="76" HQ="32" Founded="1898" Death="1928" Logo="ciano.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="77" Name="Chupu Du Greassi" Active="1" OwnerID="77" HQ="17" Founded="1946" Death="1974" Logo="chupu.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="78" Name="Shaka" Active="1" OwnerID="78" HQ="62" Founded="1959" Death="1981" Logo="Shaka.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="79" Name="Winner Motors" Active="1" OwnerID="79" HQ="24" Founded="1946" Death="1957" Logo="winner.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="80" Name="Chadunet" Active="1" OwnerID="80" HQ="15" Founded="1984" Death="2025" Logo="chadunet.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="81" Name="Cherun" Active="1" OwnerID="81" HQ="17" Founded="1901" Death="1930" Logo="cherun.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="82" Name="Charbu" Active="1" OwnerID="82" HQ="17" Founded="1901" Death="1946" Logo="charbu.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="83" Name="Shetron" Active="1" OwnerID="83" HQ="4" Founded="1965" Death="1986" Logo="shetron.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="84" Name="Shebrei" Active="1" OwnerID="84" HQ="32" Founded="1910" Death="1928" Logo="shebrei.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="85" Name="Curetellos" Active="1" OwnerID="85" HQ="32" Founded="1947" Death="1963" Logo="crytilla.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="86" Name="Systian" Active="1" OwnerID="86" HQ="17" Founded="1919" Death="2020" Logo="sitron.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="87" Name="Sizer Mordor" Active="1" OwnerID="87" HQ="35" Founded="1980" Death="2003" Logo="sizermordor.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="88" Name="Clair Blahar" Active="1" OwnerID="88" HQ="17" Founded="1903" Death="1922" Logo="clairblahar.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="89" Name="Clueless" Active="1" OwnerID="89" HQ="6" Founded="1921" Death="1928" Logo="clueless.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="90" Name="Cillo" Active="1" OwnerID="90" HQ="6" Founded="1922" Death="1929" Logo="cillo.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="91" Name="Calboni" Active="1" OwnerID="91" HQ="25" Founded="1962" Death="1968" Logo="calboni.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="92" Name="Carmath" Active="1" OwnerID="92" HQ="11" Founded="2001" Death="2020" Logo="carmath.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="93" Name="Crammer" Active="1" OwnerID="93" HQ="7" Founded="1905" Death="1979" Logo="crammer.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="94" Name="Unicorn" Active="1" OwnerID="94" HQ="17" Founded="1901" Death="1949" Logo="unicorn.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="95" Name="Cotton Despot" Active="1" OwnerID="95" HQ="18" Founded="1906" Death="1933" Logo="cotton.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="96" Name="UDW" Active="1" OwnerID="96" HQ="45" Founded="1918" Death="1931" Logo="wsc.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="97" Name="Dacalis" Active="1" OwnerID="97" HQ="55" Founded="1966" Death="2020" Logo="dacalis.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="98" Name="DUH" Active="1" OwnerID="98" HQ="21" Founded="1928" Death="2020" Logo="duf.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="99" Name="Dame Bends" Active="1" OwnerID="99" HQ="29" Founded="1926" Death="2020" Logo="damelurbends.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="100" Name="Dame" Active="1" OwnerID="100" HQ="29" Founded="1896" Death="1926" Logo="damelur.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="101" Name="Durack" Active="1" OwnerID="101" HQ="17" Founded="1890" Death="1935" Logo="durack.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="102" Name="Dollson Motors" Active="1" OwnerID="102" HQ="6" Founded="1919" Death="1921" Logo="dollson.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="103" Name="Le Deon" Active="1" OwnerID="103" HQ="17" Founded="1883" Death="1932" Logo="ledeon.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="104" Name="The Tomato" Active="1" OwnerID="104" HQ="35" Founded="1959" Death="2004" Logo="tomato.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="105" Name="Deluge" Active="1" OwnerID="105" HQ="17" Founded="1905" Death="1953" Logo="deluge.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="106" Name="Emily" Active="1" OwnerID="106" HQ="14" Founded="1894" Death="1954" Logo="dulalaye.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="107" Name="Dale-Baloney" Active="1" OwnerID="107" HQ="17" Founded="1904" Death="1950" Logo="daloony.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="108" Name="Bellow" Active="1" OwnerID="108" HQ="6" Founded="1949" Death="1956" Logo="bellow.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="109" Name="DABore" Active="1" OwnerID="109" HQ="2" Founded="1975" Death="1982" Logo="daborean.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="110" Name="Doneselz" Active="1" OwnerID="110" HQ="49" Founded="1949" Death="1959" Logo="doneselz.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="111" Name="Derpwad" Active="1" OwnerID="111" HQ="63" Founded="2003" Death="2020" Logo="derpwad.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="112" Name="Samewise" Active="1" OwnerID="112" HQ="32" Founded="1905" Death="1929" Logo="ditto.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="113" Name="Das Werks" Active="1" OwnerID="113" HQ="26" Founded="1916" Death="1969" Logo="dummkopf.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="114" Name="Dunkville" Active="1" OwnerID="114" HQ="22" Founded="1978" Death="2020" Logo="dunkville.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="115" Name="Donut" Active="1" OwnerID="115" HQ="18" Founded="1914" Death="1934" Logo="donut.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="116" Name="Dooryetti" Active="1" OwnerID="116" HQ="6" Founded="1954" Death="1955" Logo="dooryetti.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="117" Name="Dakrott" Active="1" OwnerID="117" HQ="24" Founded="1897" Death="1929" Logo="dakrott.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="118" Name="EGAG" Active="1" OwnerID="118" HQ="28" Founded="1969" Death="2020" Logo="egag.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="119" Name="Edgerun" Active="1" OwnerID="119" HQ="20" Founded="1984" Death="2020" Logo="edgerun.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="120" Name="Chicken" Active="1" OwnerID="120" HQ="31" Founded="1886" Death="1919" Logo="chicken.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="121" Name="LectroCaro" Active="1" OwnerID="121" HQ="17" Founded="1920" Death="1921" Logo="lectrocaro.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="122" Name="Elser" Active="1" OwnerID="122" HQ="27" Founded="1986" Death="2005" Logo="elser.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="123" Name="MEW" Active="1" OwnerID="123" HQ="26" Founded="1949" Death="1956" Logo="mew.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="124" Name="Ezmunn" Active="1" OwnerID="124" HQ="31" Founded="1956" Death="1969" Logo="ezmunn.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="125" Name="Aldvia" Active="1" OwnerID="125" HQ="7" Founded="1957" Death="2020" Logo="Elvin.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="126" Name="Axzeal" Active="1" OwnerID="126" HQ="31" Founded="1896" Death="1965" Logo="axcell.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="127" Name="Iysunk" Active="1" OwnerID="127" HQ="22" Founded="1897" Death="1919" Logo="iysunk.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="128" Name="Farkle" Active="1" OwnerID="128" HQ="17" Founded="1954" Death="1964" Logo="farklevoga.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="129" Name="Farnur" Active="1" OwnerID="129" HQ="27" Founded="1906" Death="1926" Logo="farnur.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="130" Name="Faretroop" Active="1" OwnerID="130" HQ="7" Founded="1954" Death="1976" Logo="faretroop.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="131" Name="Fabiro" Active="1" OwnerID="131" HQ="4" Founded="1998" Death="2006" Logo="fabiro.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="132" Name="Farzzanti" Active="1" OwnerID="132" HQ="35" Founded="2001" Death="2020" Logo="farzzanti.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="133" Name="Slow" Active="1" OwnerID="133" HQ="33" Founded="1919" Death="1925" Logo="slow.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="134" Name="Floggol" Active="1" OwnerID="134" HQ="29" Founded="1890" Death="2020" Logo="fawn.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="135" Name="Filbore" Active="1" OwnerID="135" HQ="49" Founded="1952" Death="1954" Logo="filbore.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="136" Name="Felix" Active="1" OwnerID="136" HQ="6" Founded="2009" Death="2020" Logo="felix.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="137" Name="Purr" Active="1" OwnerID="137" HQ="35" Founded="1929" Death="2020" Logo="furawry.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="138" Name="FLAN" Active="1" OwnerID="138" HQ="32" Founded="1899" Death="2020" Logo="flat.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="139" Name="Fonzeraro" Active="1" OwnerID="139" HQ="35" Founded="1999" Death="2020" Logo="fonzeraro.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="140" Name="Farm Hand" Active="1" OwnerID="140" HQ="28" Founded="1923" Death="1957" Logo="farmio.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="141" Name="FronzNesh" Active="1" OwnerID="141" HQ="7" Founded="1922" Death="1957" Logo="fronznesh.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="142" Name="Fareeze" Active="1" OwnerID="142" HQ="65" Founded="1898" Death="1910" Logo="fareeze.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="143" Name="Zesty" Active="1" OwnerID="143" HQ="6" Founded="1958" Death="1961" Logo="zesty.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="144" Name="FPM" Active="1" OwnerID="144" HQ="47" Founded="1971" Death="1992" Logo="fpm.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="145" Name="FPA" Active="1" OwnerID="145" HQ="45" Founded="1951" Death="2020" Logo="fpa.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="146" Name="Fudamobile" Active="1" OwnerID="146" HQ="28" Founded="1950" Death="1969" Logo="fudamobile.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="147" Name="GuardenPot" Active="1" OwnerID="147" HQ="17" Founded="1890" Death="1907" Logo="guardenpot.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="148" Name="Gutter" Active="1" OwnerID="148" HQ="48" Founded="1929" Death="1934" Logo="gutter.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="149" Name="ZAG" Active="1" OwnerID="149" HQ="62" Founded="1929" Death="2020" Logo="zag.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="150" Name="Jorge Rickereds" Active="1" OwnerID="150" HQ="17" Founded="1896" Death="1902" Logo="jorgerickereds.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="151" Name="Arat" Active="1" OwnerID="151" HQ="17" Founded="1921" Death="1953" Logo="jorgesarat.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="152" Name="Gilbert" Active="1" OwnerID="152" HQ="6" Founded="1959" Death="1973" Logo="gilbert.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="153" Name="Gellos" Active="1" OwnerID="153" HQ="20" Founded="1994" Death="2020" Logo="gelit.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="154" Name="Gennats" Active="1" OwnerID="154" HQ="4" Founded="1958" Death="2020" Logo="gennats.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="155" Name="Gauss" Active="1" OwnerID="155" HQ="30" Founded="1951" Death="1968" Logo="gauss.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="156" Name="GVO" Active="1" OwnerID="156" HQ="7" Founded="1910" Death="1925" Logo="gv.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="157" Name="Gordon-Brull" Active="1" OwnerID="157" HQ="17" Founded="1898" Death="1930" Logo="gordonbrull.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="158" Name="Gulogs" Active="1" OwnerID="158" HQ="23" Founded="1928" Death="1959" Logo="gulogs.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="159" Name="Gardon-Kibbles" Active="1" OwnerID="159" HQ="7" Founded="1963" Death="1968" Logo="gardonkibbles.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="160" Name="Gargol" Active="1" OwnerID="160" HQ="17" Founded="1902" Death="1924" Logo="gargory.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="161" Name="Growfries" Active="1" OwnerID="161" HQ="49" Founded="1924" Death="1927" Logo="growfries.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="162" Name="Glamepet" Active="1" OwnerID="162" HQ="30" Founded="2004" Death="2020" Logo="glampert.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="163" Name="Gusboard" Active="1" OwnerID="163" HQ="29" Founded="1926" Death="1956" Logo="guttbroad.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="164" Name="Gal Engines" Active="1" OwnerID="164" HQ="6" Founded="1914" Death="1982" Logo="galmotors.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="165" Name="GKK" Active="1" OwnerID="165" HQ="7" Founded="1911" Death="1931" Logo="gkk.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="166" Name="Hangman" Active="1" OwnerID="166" HQ="24" Founded="1835" Death="2020" Logo="hangman.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="167" Name="Hash" Active="1" OwnerID="167" HQ="23" Founded="1905" Death="1950" Logo="hashna.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="168" Name="Hazatz" Active="1" OwnerID="168" HQ="26" Founded="1922" Death="1924" Logo="hazatz.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="169" Name="Hi Kool Systems" Active="1" OwnerID="169" HQ="23" Founded="1922" Death="1964" Logo="hikul.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="170" Name="Harry Mellows" Active="1" OwnerID="170" HQ="6" Founded="1920" Death="1960" Logo="harrymellows.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="171" Name="Heelwoman" Active="1" OwnerID="171" HQ="6" Founded="1907" Death="1976" Logo="heelwoman.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="172" Name="Espanol Sizer" Active="1" OwnerID="172" HQ="12" Founded="1898" Death="1968" Logo="espanolsuzer.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="173" Name="Netholl" Active="1" OwnerID="173" HQ="22" Founded="2005" Death="2013" Logo="netholl.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="174" Name="Humkuli" Active="1" OwnerID="174" HQ="13" Founded="1990" Death="2003" Logo="hummell.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="175" Name="Gotach" Active="1" OwnerID="175" HQ="26" Founded="1901" Death="1932" Logo="hoach.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="176" Name="Hopkiss" Active="1" OwnerID="176" HQ="17" Founded="1903" Death="1955" Logo="hopkiss.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="177" Name="RGH" Active="1" OwnerID="177" HQ="7" Founded="1935" Death="1966" Logo="rgh.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="178" Name="Huger" Active="1" OwnerID="178" HQ="6" Founded="1898" Death="1975" Logo="hubber.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="179" Name="Hurting" Active="1" OwnerID="179" HQ="10" Founded="1991" Death="2020" Logo="hurting.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="180" Name="Hertdu" Active="1" OwnerID="180" HQ="17" Founded="1896" Death="1930" Logo="hertdu.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+    <Company ID="181" Name="AAD" Active="1" OwnerID="181" HQ="7" Founded="1976" Death="2020" Logo="nad.dds">
+        <Funds OnHand="-1" Credit="-1" Loans="0"/>
+        <Skills Manufactoring="-1" RnD="-1" Admin="-1" Marketing="-1" Dealers="-1"/>
+        <Design Engine="-1" Chassis="-1" Transmission="-1" Body="-1" Lux="-1" safety="-1"/>
+        <Image GeneralGlobal="-1" Quality="-1" Racing="-1" Work="-1"/>
+        <Behavior GenericDesigner="-1" Rating_Performance="-1" Rating_Drivability="-1" Rating_Luxury="-1" Rating_Safety="-1" Rating_Fuel="-1" Rating_Power="-1" Rating_Cargo="-1" Rating_Dependability="-1" DesignAggression="-1" SellAggression="-1" BuildAggression="-1" MarketingAggression="-1" CostAggression="-1" QualityAggression="-1" PriceAggression="-1" ExpansionAggression="-1" ClusterSpace="-1" ExportDesigns="-1" ImportDesigns="-1"/>
+    </Company>
+</AINode>

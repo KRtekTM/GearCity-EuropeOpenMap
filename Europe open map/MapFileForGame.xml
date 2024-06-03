@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MapInfo>
+    <MapName>Europe Test</MapName>
+    <Version>1</Version>
+    <AuthorName>Eric Jones</AuthorName>
+    <AuthorLink>www.ventdev.com</AuthorLink>
+    <MapDesc>Test your skills with the European regional map. This map uses the base city map data, but the game is limited to just Europe.</MapDesc>
+    <MapPicture>mapPicture_EuropeTest.dds</MapPicture>
+    <MapType>0</MapType>
+    <MapArt>MapArt/MapArt.zip</MapArt>
+    <Scripts>scripts/</Scripts>
+    <CityArt>CityArt/CityArt.zip</CityArt>
+    <FlagArt>FlagArt/Flags.zip</FlagArt>
+    <NewsArt>NewsArt/News.zip</NewsArt>
+    <AILogos>AILogos/AILogos.zip</AILogos>
+    <MapChanges>
+        <ChangeMap year="1900" cityTexture="map_red_city" branchTexture="map_yellow_city" factoryTexture="map_green_city" turnBasedChange="False" individualTextures="False" regionalMap="True" 
+		tlLat="68.678031" tlLong="-10.847101" 
+		trLat="68.678031" trLong="56.478094" 
+		blLat="34.970362" blLong="-10.747101" 
+		brLat="34.970362" brLong="56.478094">europeCityMap</ChangeMap>
+    </MapChanges>
+    <CityScriptChanges>
+        <ChangeCityScripts year="1900">City1900.xml</ChangeCityScripts>
+		<ChangeCityScripts year="1930">City1930.xml</ChangeCityScripts>
+		<ChangeCityScripts year="1950">City1950.xml</ChangeCityScripts>
+		<ChangeCityScripts year="1980">City1980.xml</ChangeCityScripts>
+		<ChangeCityScripts year="2000">City2000.xml</ChangeCityScripts>
+		<ChangeCityScripts year="2020">City2020.xml</ChangeCityScripts>
+    </CityScriptChanges>
+    <AIStartingOptions>
+        <AIStart number="-1" file="AI_Start.xml">All AI</AIStart>
+		<AIStart number="100" file="AI_Start.xml">100 Random AI Companies</AIStart>        
+        <AIStart number="50" file="AI_Start.xml">50 Random AI Companies</AIStart>
+		<AIStart number="25" file="AI_Start.xml">25 Random AI Companies</AIStart>
+    </AIStartingOptions>
+    <EnableEdgeWarp>False</EnableEdgeWarp>
+    <FactorySizeAdjust>1.00</FactorySizeAdjust>
+    <BranchDealerAdjust>1.00</BranchDealerAdjust>
+    <SupportLDTextures>False</SupportLDTextures>
+</MapInfo>

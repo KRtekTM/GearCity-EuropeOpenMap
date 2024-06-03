@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MapInformationLoader>
+    <MapName>Europe Test</MapName>
+    <Version>1</Version>
+    <AuthorName>Eric Jones</AuthorName>
+    <AuthorLink>www.ventdev.com</AuthorLink>
+    <MapDesc>Test your skills with the European regional map. This map uses the base city map data, but the game is limited to just Europe.</MapDesc>
+    <MapPicture>../media/Maps/Europe Test/mapPicture_EuropeTest.dds</MapPicture>
+    <MapType>0</MapType>
+    <MapArtLocation>../media/Maps/Europe Test/MapArt/MapArt.zip</MapArtLocation>
+    <MapChanges>
+        <ChangeMap year="1900" cityTexture="map_red_city" branchTexture="map_yellow_city" factoryTexture="map_green_city" turnBasedChange="False" individualTextures="False" regionalMap="True" tlLat="82.67" tlLong="-11.95" trLat="82.67" trLong="56.48" blLat="-11.95" blLong="-11.95" brLat="56.48" brLong="56.48">europeCityMap</ChangeMap>
+    </MapChanges>
+    <CityScriptFolder>../media/Maps/Europe Test/scripts/</CityScriptFolder>
+    <CityArtLocation>../media/Maps/Europe Test/CityArt/CityArt.zip</CityArtLocation>
+    <CityScriptChanges>
+        <ChangeCityScripts year="1900">City1900.xml</ChangeCityScripts>
+		<ChangeCityScripts year="1930">City1930.xml</ChangeCityScripts>
+		<ChangeCityScripts year="1950">City1950.xml</ChangeCityScripts>
+		<ChangeCityScripts year="1980">City1980.xml</ChangeCityScripts>
+		<ChangeCityScripts year="2000">City2000.xml</ChangeCityScripts>
+		<ChangeCityScripts year="2020">City2020.xml</ChangeCityScripts>
+    </CityScriptChanges>
+    <FlagFile>../media/Maps/Europe Test/FlagArt/Flags.zip</FlagFile>
+    <TurnEventsFile>../media/Maps/Europe Test/scripts/TurnEvents.xml</TurnEventsFile>
+    <NewspaperArtLocation>../media/Maps/Europe Test/NewsArt/News.zip</NewspaperArtLocation>
+    <AIScriptFolder>../media/Maps/Europe Test/scripts/</AIScriptFolder>
+    <AILogoFile>../media/Maps/Europe Test/AILogos/AILogos.zip</AILogoFile>
+    <AIStartingOptions>
+        <AIStart number="-1" file="AI_Start.xml">All AI</AIStart>
+		<AIStart number="100" file="AI_Start.xml">100 Random AI Companies</AIStart>
+        <AIStart number="25" file="AI_Start.xml">25 Random AI Companies</AIStart>
+        <AIStart number="50" file="AI_Start.xml">50 Random AI Companies</AIStart>
+    </AIStartingOptions>
+    <FactorySizeAdjust>1.00</FactorySizeAdjust>
+    <BranchDealerAdjust>1.00</BranchDealerAdjust>
+    <SupportLDTextures>False</SupportLDTextures>
+</MapInformationLoader>

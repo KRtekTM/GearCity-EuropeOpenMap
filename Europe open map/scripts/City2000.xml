@@ -1,0 +1,1659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CreateCityDB>
+ <City>
+        <ID id="1"/>
+        <NAME name="Dublin"/>
+        <COUNTRY nation="Ireland"/>
+        <POPULATION pop="993300"/>
+        <POPGROWTH pg="0.972026"/>
+        <CAPITA cap="26356"/>
+        <ECOGROWTH ecog="1.03456"/>
+        <RESOURCES res="1.5"/>
+        <GAS gastax="1"/>
+        <INF infit="55"/>
+        <SKILL ski="55"/>
+        <WAGE empwage="2196"/>
+        <MNFBASE manub="55"/>
+        <MANUGROWTH manug="1.022"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.12"/>
+        <FLAG flagfile="Ireland.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="-6.2603" lat="53.3498"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.7</BUYRATE>
+    </City>
+    <City>
+        <ID id="2"/>
+        <NAME name="Belfast"/>
+        <COUNTRY nation="United Kingdom"/>
+        <POPULATION pop="579276"/>
+        <POPGROWTH pg="0.975122"/>
+        <CAPITA cap="27828"/>
+        <ECOGROWTH ecog="1.01296"/>
+        <RESOURCES res="1.3"/>
+        <GAS gastax="1.1"/>
+        <INF infit="55"/>
+        <SKILL ski="55"/>
+        <WAGE empwage="2319"/>
+        <MNFBASE manub="55"/>
+        <MANUGROWTH manug="1.01213"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.28"/>
+        <FLAG flagfile="UK.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="-5.9301" lat="54.5972"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="3"/>
+        <NAME name="Glasgow"/>
+        <COUNTRY nation="United Kingdom"/>
+        <POPULATION pop="1395000"/>
+        <POPGROWTH pg="0.95829"/>
+        <CAPITA cap="27828"/>
+        <ECOGROWTH ecog="1.02655"/>
+        <RESOURCES res="1.6"/>
+        <GAS gastax="1.2"/>
+        <INF infit="60"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="2319"/>
+        <MNFBASE manub="60"/>
+        <MANUGROWTH manug="1.01122"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.28"/>
+        <FLAG flagfile="UK.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="-4.2518" lat="55.8642"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="4"/>
+        <NAME name="Leeds"/>
+        <COUNTRY nation="United Kingdom"/>
+        <POPULATION pop="2302000"/>
+        <POPGROWTH pg="0.946745"/>
+        <CAPITA cap="27828"/>
+        <ECOGROWTH ecog="1.01957"/>
+        <RESOURCES res="1.7"/>
+        <GAS gastax="1.2"/>
+        <INF infit="65"/>
+        <SKILL ski="65"/>
+        <WAGE empwage="2319"/>
+        <MNFBASE manub="65"/>
+        <MANUGROWTH manug="1.00718"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.28"/>
+        <FLAG flagfile="UK.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="-1.549" lat="53.8007"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="5"/>
+        <NAME name="Liverpool"/>
+        <COUNTRY nation="United Kingdom"/>
+        <POPULATION pop="2241000"/>
+        <POPGROWTH pg="0.925364"/>
+        <CAPITA cap="27828"/>
+        <ECOGROWTH ecog="1.02079"/>
+        <RESOURCES res="1.7"/>
+        <GAS gastax="1.15"/>
+        <INF infit="65"/>
+        <SKILL ski="65"/>
+        <WAGE empwage="2319"/>
+        <MNFBASE manub="65"/>
+        <MANUGROWTH manug="1.00718"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.28"/>
+        <FLAG flagfile="UK.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="-2.9915" lat="53.4083"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="6"/>
+        <NAME name="Birmingham"/>
+        <COUNTRY nation="United Kingdom"/>
+        <POPULATION pop="3683000"/>
+        <POPGROWTH pg="0.941368"/>
+        <CAPITA cap="27828"/>
+        <ECOGROWTH ecog="1.02079"/>
+        <RESOURCES res="1.75"/>
+        <GAS gastax="1.2"/>
+        <INF infit="70"/>
+        <SKILL ski="70"/>
+        <WAGE empwage="2319"/>
+        <MNFBASE manub="70"/>
+        <MANUGROWTH manug="1.00346"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.28"/>
+        <FLAG flagfile="UK.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="-1.8904" lat="52.4862"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="7"/>
+        <NAME name="London"/>
+        <COUNTRY nation="United Kingdom"/>
+        <POPULATION pop="13709000"/>
+        <POPGROWTH pg="0.97752"/>
+        <CAPITA cap="27828"/>
+        <ECOGROWTH ecog="1.05742"/>
+        <RESOURCES res="1.8"/>
+        <GAS gastax="1.1"/>
+        <INF infit="70"/>
+        <SKILL ski="70"/>
+        <WAGE empwage="2319"/>
+        <MNFBASE manub="65"/>
+        <MANUGROWTH manug="1.00718"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.28"/>
+        <FLAG flagfile="UK.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="-0.1277" lat="51.5073"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.35</BUYRATE>
+    </City>
+    <City>
+        <ID id="8"/>
+        <NAME name="Lisbon"/>
+        <COUNTRY nation="Portugal"/>
+        <POPULATION pop="1947300"/>
+        <POPGROWTH pg="0.938743"/>
+        <CAPITA cap="11536"/>
+        <ECOGROWTH ecog="1.04895"/>
+        <RESOURCES res="1.4"/>
+        <GAS gastax="1"/>
+        <INF infit="40"/>
+        <SKILL ski="40"/>
+        <WAGE empwage="961"/>
+        <MNFBASE manub="40"/>
+        <MANUGROWTH manug="1.02457"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.25"/>
+        <FLAG flagfile="KingPortugue.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="-9.1393" lat="38.7222"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="9"/>
+        <NAME name="Vigo"/>
+        <COUNTRY nation="Spain"/>
+        <POPULATION pop="285500"/>
+        <POPGROWTH pg="1.00248"/>
+        <CAPITA cap="14831"/>
+        <ECOGROWTH ecog="1.02218"/>
+        <RESOURCES res="1.4"/>
+        <GAS gastax="1.1"/>
+        <INF infit="38"/>
+        <SKILL ski="38"/>
+        <WAGE empwage="1235"/>
+        <MNFBASE manub="38"/>
+        <MANUGROWTH manug="1.0272"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.3"/>
+        <FLAG flagfile="Spain1875.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="-8.7207" lat="42.2405"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.75</BUYRATE>
+    </City>
+    <City>
+        <ID id="10"/>
+        <NAME name="Madrid"/>
+        <COUNTRY nation="Spain"/>
+        <POPULATION pop="2882900"/>
+        <POPGROWTH pg="1.00523"/>
+        <CAPITA cap="14831"/>
+        <ECOGROWTH ecog="1.0408"/>
+        <RESOURCES res="1.6"/>
+        <GAS gastax="1.1"/>
+        <INF infit="50"/>
+        <SKILL ski="50"/>
+        <WAGE empwage="1235"/>
+        <MNFBASE manub="50"/>
+        <MANUGROWTH manug="1.0132"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.3"/>
+        <FLAG flagfile="Spain1875.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="-3.7037" lat="40.4167"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.75</BUYRATE>
+    </City>
+    <City>
+        <ID id="11"/>
+        <NAME name="Valencia"/>
+        <COUNTRY nation="Spain"/>
+        <POPULATION pop="739000"/>
+        <POPGROWTH pg="1.00552"/>
+        <CAPITA cap="14831"/>
+        <ECOGROWTH ecog="1.03585"/>
+        <RESOURCES res="1.5"/>
+        <GAS gastax="1.1"/>
+        <INF infit="45"/>
+        <SKILL ski="45"/>
+        <WAGE empwage="1235"/>
+        <MNFBASE manub="45"/>
+        <MANUGROWTH manug="1.01008"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.3"/>
+        <FLAG flagfile="Spain1875.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="-0.3762" lat="39.4699"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.75</BUYRATE>
+    </City>
+    <City>
+        <ID id="12"/>
+        <NAME name="Barcelona"/>
+        <COUNTRY nation="Spain"/>
+        <POPULATION pop="1496300"/>
+        <POPGROWTH pg="1.00566"/>
+        <CAPITA cap="14831"/>
+        <ECOGROWTH ecog="1.03755"/>
+        <RESOURCES res="1.6"/>
+        <GAS gastax="1.1"/>
+        <INF infit="50"/>
+        <SKILL ski="50"/>
+        <WAGE empwage="1235"/>
+        <MNFBASE manub="50"/>
+        <MANUGROWTH manug="1.01697"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.3"/>
+        <FLAG flagfile="Spain1875.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="2.1734" lat="41.385"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.75</BUYRATE>
+    </City>
+    <City>
+        <ID id="13"/>
+        <NAME name="Rennes"/>
+        <COUNTRY nation="France"/>
+        <POPULATION pop="266300"/>
+        <POPGROWTH pg="1.04563"/>
+        <CAPITA cap="23318"/>
+        <ECOGROWTH ecog="1.01904"/>
+        <RESOURCES res="1.65"/>
+        <GAS gastax="1.15"/>
+        <INF infit="58"/>
+        <SKILL ski="58"/>
+        <WAGE empwage="1943"/>
+        <MNFBASE manub="58"/>
+        <MANUGROWTH manug="1.01294"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.33"/>
+        <FLAG flagfile="France.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="-1.6777" lat="48.1172"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.65</BUYRATE>
+    </City>
+    <City>
+        <ID id="14"/>
+        <NAME name="Nantes"/>
+        <COUNTRY nation="France"/>
+        <POPULATION pop="544900"/>
+        <POPGROWTH pg="1.02541"/>
+        <CAPITA cap="23318"/>
+        <ECOGROWTH ecog="1.02266"/>
+        <RESOURCES res="1.6"/>
+        <GAS gastax="1.15"/>
+        <INF infit="58"/>
+        <SKILL ski="58"/>
+        <WAGE empwage="1943"/>
+        <MNFBASE manub="58"/>
+        <MANUGROWTH manug="1.01294"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.33"/>
+        <FLAG flagfile="France.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="-1.5536" lat="47.2183"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="15"/>
+        <NAME name="Bordeaux"/>
+        <COUNTRY nation="France"/>
+        <POPULATION pop="734700"/>
+        <POPGROWTH pg="1.0213"/>
+        <CAPITA cap="23318"/>
+        <ECOGROWTH ecog="1.02051"/>
+        <RESOURCES res="1.65"/>
+        <GAS gastax="1.15"/>
+        <INF infit="60"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="1943"/>
+        <MNFBASE manub="60"/>
+        <MANUGROWTH manug="1.01122"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.33"/>
+        <FLAG flagfile="France.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="-0.5791" lat="44.8377"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="16"/>
+        <NAME name="Toulouse"/>
+        <COUNTRY nation="France"/>
+        <POPULATION pop="741100"/>
+        <POPGROWTH pg="1.02439"/>
+        <CAPITA cap="23318"/>
+        <ECOGROWTH ecog="1.02051"/>
+        <RESOURCES res="1.6"/>
+        <GAS gastax="1.15"/>
+        <INF infit="60"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="1943"/>
+        <MNFBASE manub="60"/>
+        <MANUGROWTH manug="1.01122"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.33"/>
+        <FLAG flagfile="France.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="1.4442" lat="43.6046"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="17"/>
+        <NAME name="Paris"/>
+        <COUNTRY nation="France"/>
+        <POPULATION pop="9489700"/>
+        <POPGROWTH pg="1.02383"/>
+        <CAPITA cap="23318"/>
+        <ECOGROWTH ecog="1.05872"/>
+        <RESOURCES res="1.75"/>
+        <GAS gastax="1.2"/>
+        <INF infit="68"/>
+        <SKILL ski="68"/>
+        <WAGE empwage="1943"/>
+        <MNFBASE manub="68"/>
+        <MANUGROWTH manug="0.997747"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.33"/>
+        <FLAG flagfile="France.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="2.3522" lat="48.8566"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.4</BUYRATE>
+    </City>
+    <City>
+        <ID id="18"/>
+        <NAME name="Lyon"/>
+        <COUNTRY nation="France"/>
+        <POPULATION pop="1348800"/>
+        <POPGROWTH pg="1.02476"/>
+        <CAPITA cap="23318"/>
+        <ECOGROWTH ecog="1.03342"/>
+        <RESOURCES res="1.7"/>
+        <GAS gastax="1.2"/>
+        <INF infit="65"/>
+        <SKILL ski="65"/>
+        <WAGE empwage="1943"/>
+        <MNFBASE manub="65"/>
+        <MANUGROWTH manug="1.00718"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.33"/>
+        <FLAG flagfile="France.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="4.8356" lat="45.764"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="19"/>
+        <NAME name="Marseille"/>
+        <COUNTRY nation="France"/>
+        <POPULATION pop="1349800"/>
+        <POPGROWTH pg="1.0145"/>
+        <CAPITA cap="23318"/>
+        <ECOGROWTH ecog="1.02735"/>
+        <RESOURCES res="1.7"/>
+        <GAS gastax="1.15"/>
+        <INF infit="62"/>
+        <SKILL ski="62"/>
+        <WAGE empwage="1943"/>
+        <MNFBASE manub="62"/>
+        <MANUGROWTH manug="1.00956"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.33"/>
+        <FLAG flagfile="France.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="5.3697" lat="43.2964"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="20"/>
+        <NAME name="Brussels"/>
+        <COUNTRY nation="Belgium"/>
+        <POPULATION pop="959300"/>
+        <POPGROWTH pg="1.01531"/>
+        <CAPITA cap="23303"/>
+        <ECOGROWTH ecog="1.03345"/>
+        <RESOURCES res="1.5"/>
+        <GAS gastax="1.2"/>
+        <INF infit="62"/>
+        <SKILL ski="62"/>
+        <WAGE empwage="1941"/>
+        <MNFBASE manub="62"/>
+        <MANUGROWTH manug="1.00237"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.34"/>
+        <FLAG flagfile="Belgium.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="4.3517" lat="50.8503"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.9</BUYRATE>
+    </City>
+    <City>
+        <ID id="21"/>
+        <NAME name="Rotterdam"/>
+        <COUNTRY nation="Netherlands"/>
+        <POPULATION pop="592700"/>
+        <POPGROWTH pg="1.00835"/>
+        <CAPITA cap="25996"/>
+        <ECOGROWTH ecog="1.02782"/>
+        <RESOURCES res="1.5"/>
+        <GAS gastax="1.2"/>
+        <INF infit="60"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="2166"/>
+        <MNFBASE manub="60"/>
+        <MANUGROWTH manug="1.01122"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="Netherlands.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="4.4777" lat="51.9244"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.9</BUYRATE>
+    </City>
+    <City>
+        <ID id="22"/>
+        <NAME name="Amsterdam"/>
+        <COUNTRY nation="Netherlands"/>
+        <POPULATION pop="727100"/>
+        <POPGROWTH pg="1.01606"/>
+        <CAPITA cap="25996"/>
+        <ECOGROWTH ecog="1.04094"/>
+        <RESOURCES res="1.5"/>
+        <GAS gastax="1.2"/>
+        <INF infit="65"/>
+        <SKILL ski="65"/>
+        <WAGE empwage="2166"/>
+        <MNFBASE manub="65"/>
+        <MANUGROWTH manug="1.00718"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="Netherlands.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="4.8952" lat="52.3702"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.9</BUYRATE>
+    </City>
+    <City>
+        <ID id="23"/>
+        <NAME name="Hamburg"/>
+        <COUNTRY nation="Germany"/>
+        <POPULATION pop="1715400"/>
+        <POPGROWTH pg="1.02834"/>
+        <CAPITA cap="23774"/>
+        <ECOGROWTH ecog="1.02373"/>
+        <RESOURCES res="1.7"/>
+        <GAS gastax="1.1"/>
+        <INF infit="60"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="1981"/>
+        <MNFBASE manub="60"/>
+        <MANUGROWTH manug="1.01757"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.3"/>
+        <FLAG flagfile="GermanEmpire.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="9.9936" lat="53.551"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.95</BUYRATE>
+    </City>
+    <City>
+        <ID id="24"/>
+        <NAME name="Hanover"/>
+        <COUNTRY nation="Germany"/>
+        <POPULATION pop="520700"/>
+        <POPGROWTH pg="1.08775"/>
+        <CAPITA cap="23774"/>
+        <ECOGROWTH ecog="1.02236"/>
+        <RESOURCES res="1.6"/>
+        <GAS gastax="1.1"/>
+        <INF infit="60"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="1981"/>
+        <MNFBASE manub="60"/>
+        <MANUGROWTH manug="1.01122"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.3"/>
+        <FLAG flagfile="GermanEmpire.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="9.732" lat="52.3758"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.95</BUYRATE>
+    </City>
+    <City>
+        <ID id="25"/>
+        <NAME name="Berlin"/>
+        <COUNTRY nation="Germany"/>
+        <POPULATION pop="4100000"/>
+        <POPGROWTH pg="1"/>
+        <CAPITA cap="23774"/>
+        <ECOGROWTH ecog="1.00821"/>
+        <RESOURCES res="1.7"/>
+        <GAS gastax="1.1"/>
+        <INF infit="65"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="1981"/>
+        <MNFBASE manub="60"/>
+        <MANUGROWTH manug="1.01122"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.3"/>
+        <FLAG flagfile="GermanEmpire.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="13.4049" lat="52.52"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="26"/>
+        <NAME name="Leipzig"/>
+        <COUNTRY nation="Germany"/>
+        <POPULATION pop="493200"/>
+        <POPGROWTH pg="1.11033"/>
+        <CAPITA cap="23774"/>
+        <ECOGROWTH ecog="1.00821"/>
+        <RESOURCES res="1.7"/>
+        <GAS gastax="1.1"/>
+        <INF infit="55"/>
+        <SKILL ski="55"/>
+        <WAGE empwage="1981"/>
+        <MNFBASE manub="55"/>
+        <MANUGROWTH manug="1.01563"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.3"/>
+        <FLAG flagfile="GermanEmpire.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="12.373" lat="51.3396"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.8</BUYRATE>
+    </City>
+    <City>
+        <ID id="27"/>
+        <NAME name="Cologne"/>
+        <COUNTRY nation="Germany"/>
+        <POPULATION pop="964300"/>
+        <POPGROWTH pg="1.05839"/>
+        <CAPITA cap="23774"/>
+        <ECOGROWTH ecog="1.01953"/>
+        <RESOURCES res="1.75"/>
+        <GAS gastax="1.1"/>
+        <INF infit="60"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="1981"/>
+        <MNFBASE manub="60"/>
+        <MANUGROWTH manug="1.01757"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.3"/>
+        <FLAG flagfile="GermanEmpire.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="6.9602" lat="50.9375"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.95</BUYRATE>
+    </City>
+    <City>
+        <ID id="28"/>
+        <NAME name="Frankfurt"/>
+        <COUNTRY nation="Germany"/>
+        <POPULATION pop="585300"/>
+        <POPGROWTH pg="1.10737"/>
+        <CAPITA cap="23774"/>
+        <ECOGROWTH ecog="1.02506"/>
+        <RESOURCES res="1.8"/>
+        <GAS gastax="1.1"/>
+        <INF infit="65"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="1981"/>
+        <MNFBASE manub="60"/>
+        <MANUGROWTH manug="1.01122"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.3"/>
+        <FLAG flagfile="GermanEmpire.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="8.6821" lat="50.1109"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.95</BUYRATE>
+    </City>
+    <City>
+        <ID id="29"/>
+        <NAME name="Stuttgart"/>
+        <COUNTRY nation="Germany"/>
+        <POPULATION pop="585300"/>
+        <POPGROWTH pg="1.11853"/>
+        <CAPITA cap="23774"/>
+        <ECOGROWTH ecog="1.01953"/>
+        <RESOURCES res="1.85"/>
+        <GAS gastax="1.1"/>
+        <INF infit="68"/>
+        <SKILL ski="68"/>
+        <WAGE empwage="1981"/>
+        <MNFBASE manub="70"/>
+        <MANUGROWTH manug="1.00976"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.3"/>
+        <FLAG flagfile="GermanEmpire.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="9.1829" lat="48.7758"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.95</BUYRATE>
+    </City>
+    <City>
+        <ID id="30"/>
+        <NAME name="Munich"/>
+        <COUNTRY nation="Germany"/>
+        <POPULATION pop="1210200"/>
+        <POPGROWTH pg="1.05453"/>
+        <CAPITA cap="23774"/>
+        <ECOGROWTH ecog="1.03126"/>
+        <RESOURCES res="1.7"/>
+        <GAS gastax="1.1"/>
+        <INF infit="63"/>
+        <SKILL ski="63"/>
+        <WAGE empwage="1981"/>
+        <MNFBASE manub="65"/>
+        <MANUGROWTH manug="1.00718"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.3"/>
+        <FLAG flagfile="GermanEmpire.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="11.5819" lat="48.1351"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.95</BUYRATE>
+    </City>
+    <City>
+        <ID id="31"/>
+        <NAME name="Zürich"/>
+        <COUNTRY nation="Switzerland"/>
+        <POPULATION pop="953800"/>
+        <POPGROWTH pg="0.963136"/>
+        <CAPITA cap="37948"/>
+        <ECOGROWTH ecog="1.02485"/>
+        <RESOURCES res="1.5"/>
+        <GAS gastax="1.25"/>
+        <INF infit="75"/>
+        <SKILL ski="70"/>
+        <WAGE empwage="3162"/>
+        <MNFBASE manub="60"/>
+        <MANUGROWTH manug="1.00401"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="Switzerland.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="8.5416" lat="47.3768"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.8</BUYRATE>
+    </City>
+    <City>
+        <ID id="32"/>
+        <NAME name="Turin"/>
+        <COUNTRY nation="Italy"/>
+        <POPULATION pop="1400000"/>
+        <POPGROWTH pg="1.01799"/>
+        <CAPITA cap="20117"/>
+        <ECOGROWTH ecog="1.02506"/>
+        <RESOURCES res="1.65"/>
+        <GAS gastax="1.15"/>
+        <INF infit="55"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="1676"/>
+        <MNFBASE manub="50"/>
+        <MANUGROWTH manug="1.02048"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.31"/>
+        <FLAG flagfile="Italy1861.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="7.6868" lat="45.0703"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="33"/>
+        <NAME name="Milan"/>
+        <COUNTRY nation="Italy"/>
+        <POPULATION pop="3600000"/>
+        <POPGROWTH pg="1.03193"/>
+        <CAPITA cap="20117"/>
+        <ECOGROWTH ecog="1.04552"/>
+        <RESOURCES res="1.65"/>
+        <GAS gastax="1.15"/>
+        <INF infit="55"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="1676"/>
+        <MNFBASE manub="50"/>
+        <MANUGROWTH manug="1.02048"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.31"/>
+        <FLAG flagfile="Italy1861.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="9.1859" lat="45.4654"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="34"/>
+        <NAME name="Genoa"/>
+        <COUNTRY nation="Italy"/>
+        <POPULATION pop="750000"/>
+        <POPGROWTH pg="1.00916"/>
+        <CAPITA cap="20117"/>
+        <ECOGROWTH ecog="1.02348"/>
+        <RESOURCES res="1.65"/>
+        <GAS gastax="1.15"/>
+        <INF infit="50"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="1676"/>
+        <MNFBASE manub="50"/>
+        <MANUGROWTH manug="1.01697"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.31"/>
+        <FLAG flagfile="Italy1861.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="8.9462" lat="44.4056"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.65</BUYRATE>
+    </City>
+    <City>
+        <ID id="35"/>
+        <NAME name="Bologna"/>
+        <COUNTRY nation="Italy"/>
+        <POPULATION pop="430000"/>
+        <POPGROWTH pg="1.05265"/>
+        <CAPITA cap="20117"/>
+        <ECOGROWTH ecog="1.02659"/>
+        <RESOURCES res="1.65"/>
+        <GAS gastax="1.15"/>
+        <INF infit="50"/>
+        <SKILL ski="65"/>
+        <WAGE empwage="1676"/>
+        <MNFBASE manub="50"/>
+        <MANUGROWTH manug="1.02048"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.31"/>
+        <FLAG flagfile="Italy1861.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="11.3426" lat="44.4948"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.65</BUYRATE>
+    </City>
+    <City>
+        <ID id="36"/>
+        <NAME name="Rome"/>
+        <COUNTRY nation="Italy"/>
+        <POPULATION pop="2900000"/>
+        <POPGROWTH pg="1.02334"/>
+        <CAPITA cap="20117"/>
+        <ECOGROWTH ecog="1.04108"/>
+        <RESOURCES res="1.65"/>
+        <GAS gastax="1.15"/>
+        <INF infit="60"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="1676"/>
+        <MNFBASE manub="55"/>
+        <MANUGROWTH manug="1.01563"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.31"/>
+        <FLAG flagfile="Italy1861.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="12.4963" lat="41.9027"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="37"/>
+        <NAME name="Naples"/>
+        <COUNTRY nation="Italy"/>
+        <POPULATION pop="2600000"/>
+        <POPGROWTH pg="1.03817"/>
+        <CAPITA cap="20117"/>
+        <ECOGROWTH ecog="1.01667"/>
+        <RESOURCES res="1.65"/>
+        <GAS gastax="1.15"/>
+        <INF infit="55"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="1676"/>
+        <MNFBASE manub="50"/>
+        <MANUGROWTH manug="1.0132"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.31"/>
+        <FLAG flagfile="Italy1861.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="14.2681" lat="40.8517"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.65</BUYRATE>
+    </City>
+    <City>
+        <ID id="38"/>
+        <NAME name="Palermo"/>
+        <COUNTRY nation="Italy"/>
+        <POPULATION pop="652600"/>
+        <POPGROWTH pg="1.03114"/>
+        <CAPITA cap="20117"/>
+        <ECOGROWTH ecog="1.01667"/>
+        <RESOURCES res="1.65"/>
+        <GAS gastax="1.15"/>
+        <INF infit="55"/>
+        <SKILL ski="50"/>
+        <WAGE empwage="1676"/>
+        <MNFBASE manub="50"/>
+        <MANUGROWTH manug="1.00478"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.31"/>
+        <FLAG flagfile="Italy1861.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="13.3612" lat="38.1156"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.65</BUYRATE>
+    </City>
+    <City>
+        <ID id="39"/>
+        <NAME name="Copenhagen"/>
+        <COUNTRY nation="Denmark"/>
+        <POPULATION pop="1081700"/>
+        <POPGROWTH pg="0.996081"/>
+        <CAPITA cap="30804"/>
+        <ECOGROWTH ecog="1.03034"/>
+        <RESOURCES res="1.5"/>
+        <GAS gastax="1.26"/>
+        <INF infit="75"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="2567"/>
+        <MNFBASE manub="55"/>
+        <MANUGROWTH manug="1.00839"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.25"/>
+        <FLAG flagfile="Denmark.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="12.5683" lat="55.676"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.4</BUYRATE>
+    </City>
+    <City>
+        <ID id="40"/>
+        <NAME name="Gothenburg"/>
+        <COUNTRY nation="Sweden"/>
+        <POPULATION pop="710500"/>
+        <POPGROWTH pg="0.987279"/>
+        <CAPITA cap="16856"/>
+        <ECOGROWTH ecog="1.06091"/>
+        <RESOURCES res="1.6"/>
+        <GAS gastax="1.3"/>
+        <INF infit="75"/>
+        <SKILL ski="70"/>
+        <WAGE empwage="1404"/>
+        <MNFBASE manub="65"/>
+        <MANUGROWTH manug="1.00718"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.26"/>
+        <FLAG flagfile="swedenunion.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="11.9745" lat="57.7088"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="41"/>
+        <NAME name="Stockholm"/>
+        <COUNTRY nation="Sweden"/>
+        <POPULATION pop="1500000"/>
+        <POPGROWTH pg="1"/>
+        <CAPITA cap="16856"/>
+        <ECOGROWTH ecog="1.0753"/>
+        <RESOURCES res="1.65"/>
+        <GAS gastax="1.3"/>
+        <INF infit="75"/>
+        <SKILL ski="70"/>
+        <WAGE empwage="1404"/>
+        <MNFBASE manub="65"/>
+        <MANUGROWTH manug="1"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.26"/>
+        <FLAG flagfile="swedenunion.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="18.0685" lat="59.3293"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.4</BUYRATE>
+    </City>
+    <City>
+        <ID id="42"/>
+        <NAME name="Oslo"/>
+        <COUNTRY nation="Norway"/>
+        <POPULATION pop="773500"/>
+        <POPGROWTH pg="1.01033"/>
+        <CAPITA cap="38067"/>
+        <ECOGROWTH ecog="1.03238"/>
+        <RESOURCES res="1.5"/>
+        <GAS gastax="1.35"/>
+        <INF infit="65"/>
+        <SKILL ski="55"/>
+        <WAGE empwage="3172"/>
+        <MNFBASE manub="50"/>
+        <MANUGROWTH manug="0.994746"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.28"/>
+        <FLAG flagfile="Norway.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="10.7522" lat="59.9138"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.4</BUYRATE>
+    </City>
+    <City>
+        <ID id="43"/>
+        <NAME name="Helsinki"/>
+        <COUNTRY nation="Russia"/>
+        <POPULATION pop="555500"/>
+        <POPGROWTH pg="1.03926"/>
+        <CAPITA cap="24347"/>
+        <ECOGROWTH ecog="1.03119"/>
+        <RESOURCES res="1.3"/>
+        <GAS gastax="1.3"/>
+        <INF infit="55"/>
+        <SKILL ski="55"/>
+        <WAGE empwage="2028"/>
+        <MNFBASE manub="50"/>
+        <MANUGROWTH manug="1.00478"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.26"/>
+        <FLAG flagfile="ModernRussia.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="24.9383" lat="60.1698"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="44"/>
+        <NAME name="Poznań"/>
+        <COUNTRY nation="Germany"/>
+        <POPULATION pop="574900"/>
+        <POPGROWTH pg="0.997789"/>
+        <CAPITA cap="4476"/>
+        <ECOGROWTH ecog="1.09195"/>
+        <RESOURCES res="1.5"/>
+        <GAS gastax="1.2"/>
+        <INF infit="20"/>
+        <SKILL ski="20"/>
+        <WAGE empwage="373"/>
+        <MNFBASE manub="15"/>
+        <MANUGROWTH manug="1.07607"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.19"/>
+        <FLAG flagfile="GermanEmpire.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="16.9251" lat="52.4063"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="45"/>
+        <NAME name="Warsaw"/>
+        <COUNTRY nation="Russia"/>
+        <POPULATION pop="1610500"/>
+        <POPGROWTH pg="1.00558"/>
+        <CAPITA cap="4476"/>
+        <ECOGROWTH ecog="1.1067"/>
+        <RESOURCES res="1.4"/>
+        <GAS gastax="1.2"/>
+        <INF infit="20"/>
+        <SKILL ski="20"/>
+        <WAGE empwage="373"/>
+        <MNFBASE manub="18"/>
+        <MANUGROWTH manug="1.06631"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.19"/>
+        <FLAG flagfile="ModernRussia.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="21.0122" lat="52.2296"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="46"/>
+        <NAME name="Lublin"/>
+        <COUNTRY nation="Russia"/>
+        <POPULATION pop="355800"/>
+        <POPGROWTH pg="0.999179"/>
+        <CAPITA cap="4476"/>
+        <ECOGROWTH ecog="1.08981"/>
+        <RESOURCES res="1.4"/>
+        <GAS gastax="1.2"/>
+        <INF infit="15"/>
+        <SKILL ski="15"/>
+        <WAGE empwage="373"/>
+        <MNFBASE manub="15"/>
+        <MANUGROWTH manug="1.06712"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.19"/>
+        <FLAG flagfile="ModernRussia.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="22.5684" lat="51.2464"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="47"/>
+        <NAME name="Katowice"/>
+        <COUNTRY nation="Germany"/>
+        <POPULATION pop="574900"/>
+        <POPGROWTH pg="0.968002"/>
+        <CAPITA cap="4476"/>
+        <ECOGROWTH ecog="1.08981"/>
+        <RESOURCES res="1.4"/>
+        <GAS gastax="1.2"/>
+        <INF infit="15"/>
+        <SKILL ski="15"/>
+        <WAGE empwage="373"/>
+        <MNFBASE manub="15"/>
+        <MANUGROWTH manug="1.07607"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.19"/>
+        <FLAG flagfile="GermanEmpire.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="19.0237" lat="50.2648"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="48"/>
+        <NAME name="Prague"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="1181100"/>
+        <POPGROWTH pg="1.027"/>
+        <CAPITA cap="5981"/>
+        <ECOGROWTH ecog="1.08"/>
+        <RESOURCES res="1.6"/>
+        <GAS gastax="1.1"/>
+        <INF infit="30"/>
+        <SKILL ski="40"/>
+        <WAGE empwage="498"/>
+        <MNFBASE manub="30"/>
+        <MANUGROWTH manug="1.047"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.19"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="14.4378" lat="50.0755"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.8</BUYRATE>
+    </City>
+    <City>
+        <ID id="49"/>
+        <NAME name="Vienna"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="1608100"/>
+        <POPGROWTH pg="1.01096"/>
+        <CAPITA cap="24589"/>
+        <ECOGROWTH ecog="1.03401"/>
+        <RESOURCES res="1"/>
+        <GAS gastax="1"/>
+        <INF infit="60"/>
+        <SKILL ski="60"/>
+        <WAGE empwage="2049"/>
+        <MNFBASE manub="55"/>
+        <MANUGROWTH manug="1.01563"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.25"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="16.3738" lat="48.2081"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.7</BUYRATE>
+    </City>
+    <City>
+        <ID id="50"/>
+        <NAME name="Bratislava"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="447300"/>
+        <POPGROWTH pg="1.01479"/>
+        <CAPITA cap="3848"/>
+        <ECOGROWTH ecog="1.10432"/>
+        <RESOURCES res="1.5"/>
+        <GAS gastax="1.15"/>
+        <INF infit="22"/>
+        <SKILL ski="22"/>
+        <WAGE empwage="320"/>
+        <MNFBASE manub="22"/>
+        <MANUGROWTH manug="1.06992"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.19"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="17.1077" lat="48.1485"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.55</BUYRATE>
+    </City>
+    <City>
+        <ID id="51"/>
+        <NAME name="Budapest"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="1811600"/>
+        <POPGROWTH pg="1.00105"/>
+        <CAPITA cap="4615"/>
+        <ECOGROWTH ecog="1.08815"/>
+        <RESOURCES res="1.35"/>
+        <GAS gastax="1.2"/>
+        <INF infit="28"/>
+        <SKILL ski="25"/>
+        <WAGE empwage="384"/>
+        <MNFBASE manub="20"/>
+        <MANUGROWTH manug="1.07503"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.16"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="19.0402" lat="47.4979"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="52"/>
+        <NAME name="Zagreb"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="890900"/>
+        <POPGROWTH pg="0.997653"/>
+        <CAPITA cap="4970"/>
+        <ECOGROWTH ecog="1.07961"/>
+        <RESOURCES res="1.3"/>
+        <GAS gastax="1.15"/>
+        <INF infit="30"/>
+        <SKILL ski="30"/>
+        <WAGE empwage="414"/>
+        <MNFBASE manub="30"/>
+        <MANUGROWTH manug="1.03077"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="15.9819" lat="45.815"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="53"/>
+        <NAME name="Sofia"/>
+        <COUNTRY nation="Bulgaria"/>
+        <POPULATION pop="1174000"/>
+        <POPGROWTH pg="1.00701"/>
+        <CAPITA cap="1613"/>
+        <ECOGROWTH ecog="1.13124"/>
+        <RESOURCES res="1.25"/>
+        <GAS gastax="1.15"/>
+        <INF infit="8"/>
+        <SKILL ski="8"/>
+        <WAGE empwage="134"/>
+        <MNFBASE manub="12"/>
+        <MANUGROWTH manug="1.08814"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.1"/>
+        <FLAG flagfile="Bulgaria.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="23.3218" lat="42.6977"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.25</BUYRATE>
+    </City>
+    <City>
+        <ID id="54"/>
+        <NAME name="Athens"/>
+        <COUNTRY nation="Greece"/>
+        <POPULATION pop="3307300"/>
+        <POPGROWTH pg="0.996769"/>
+        <CAPITA cap="12268"/>
+        <ECOGROWTH ecog="1.03926"/>
+        <RESOURCES res="1.3"/>
+        <GAS gastax="1.2"/>
+        <INF infit="30"/>
+        <SKILL ski="30"/>
+        <WAGE empwage="1022"/>
+        <MNFBASE manub="35"/>
+        <MANUGROWTH manug="1.02286"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.22"/>
+        <FLAG flagfile="Greece1863.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="23.7275" lat="37.9838"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.4</BUYRATE>
+    </City>
+    <City>
+        <ID id="55"/>
+        <NAME name="Bucharest"/>
+        <COUNTRY nation="Romania"/>
+        <POPULATION pop="2009200"/>
+        <POPGROWTH pg="1.00568"/>
+        <CAPITA cap="1670"/>
+        <ECOGROWTH ecog="1.11601"/>
+        <RESOURCES res="1.25"/>
+        <GAS gastax="1"/>
+        <INF infit="12"/>
+        <SKILL ski="12"/>
+        <WAGE empwage="139"/>
+        <MNFBASE manub="12"/>
+        <MANUGROWTH manug="1.07909"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.16"/>
+        <FLAG flagfile="Romania.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="26.1025" lat="44.4267"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="56"/>
+        <NAME name="Lviv"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="732000"/>
+        <POPGROWTH pg="1.00445"/>
+        <CAPITA cap="664"/>
+        <ECOGROWTH ecog="1.12498"/>
+        <RESOURCES res="1.3"/>
+        <GAS gastax="1.15"/>
+        <INF infit="10"/>
+        <SKILL ski="10"/>
+        <WAGE empwage="55"/>
+        <MNFBASE manub="10"/>
+        <MANUGROWTH manug="1.08898"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.25"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="24.0297" lat="49.8396"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="57"/>
+        <NAME name="Kyiv"/>
+        <COUNTRY nation="Russia"/>
+        <POPULATION pop="2602000"/>
+        <POPGROWTH pg="1.00714"/>
+        <CAPITA cap="664"/>
+        <ECOGROWTH ecog="1.12887"/>
+        <RESOURCES res="1.3"/>
+        <GAS gastax="1.2"/>
+        <INF infit="12"/>
+        <SKILL ski="12"/>
+        <WAGE empwage="55"/>
+        <MNFBASE manub="12"/>
+        <MANUGROWTH manug="1.08814"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.25"/>
+        <FLAG flagfile="ModernRussia.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="30.5234" lat="50.4501"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.6</BUYRATE>
+    </City>
+    <City>
+        <ID id="58"/>
+        <NAME name="Minsk"/>
+        <COUNTRY nation="Russia"/>
+        <POPULATION pop="1719000"/>
+        <POPGROWTH pg="1.0076"/>
+        <CAPITA cap="1284"/>
+        <ECOGROWTH ecog="1.09911"/>
+        <RESOURCES res="1"/>
+        <GAS gastax="1.1"/>
+        <INF infit="12"/>
+        <SKILL ski="12"/>
+        <WAGE empwage="107"/>
+        <MNFBASE manub="12"/>
+        <MANUGROWTH manug="1.07909"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.24"/>
+        <FLAG flagfile="Belarus.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="27.5615" lat="53.9045"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.3</BUYRATE>
+    </City>
+    <City>
+        <ID id="59"/>
+        <NAME name="St. Petersburg"/>
+        <COUNTRY nation="Russia"/>
+        <POPULATION pop="5800000"/>
+        <POPGROWTH pg="0.992"/>
+        <CAPITA cap="1906"/>
+        <ECOGROWTH ecog="1.074"/>
+        <RESOURCES res="1.5"/>
+        <GAS gastax="1.1"/>
+        <INF infit="20"/>
+        <SKILL ski="13"/>
+        <WAGE empwage="158"/>
+        <MNFBASE manub="13"/>
+        <MANUGROWTH manug="1.084"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="ModernRussia.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="30.335" lat="59.9342"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="60"/>
+        <NAME name="Moscow"/>
+        <COUNTRY nation="Russia"/>
+        <POPULATION pop="13000000"/>
+        <POPGROWTH pg="0.996"/>
+        <CAPITA cap="1906"/>
+        <ECOGROWTH ecog="1.096"/>
+        <RESOURCES res="1.5"/>
+        <GAS gastax="1.15"/>
+        <INF infit="15"/>
+        <SKILL ski="15"/>
+        <WAGE empwage="158"/>
+        <MNFBASE manub="13"/>
+        <MANUGROWTH manug="1.084"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="ModernRussia.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="37.6173" lat="55.7558"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="61"/>
+        <NAME name="Yaroslavl"/>
+        <COUNTRY nation="Russia"/>
+        <POPULATION pop="608800"/>
+        <POPGROWTH pg="0.999"/>
+        <CAPITA cap="1906"/>
+        <ECOGROWTH ecog="1.074"/>
+        <RESOURCES res="1.3"/>
+        <GAS gastax="1.15"/>
+        <INF infit="10"/>
+        <SKILL ski="10"/>
+        <WAGE empwage="158"/>
+        <MNFBASE manub="10"/>
+        <MANUGROWTH manug="1.089"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="ModernRussia.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="39.8844" lat="57.626"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="62"/>
+        <NAME name="Nizhny Novgorod"/>
+        <COUNTRY nation="Russia"/>
+        <POPULATION pop="1900000"/>
+        <POPGROWTH pg="0.981"/>
+        <CAPITA cap="1906"/>
+        <ECOGROWTH ecog="1.071"/>
+        <RESOURCES res="1.3"/>
+        <GAS gastax="1.15"/>
+        <INF infit="10"/>
+        <SKILL ski="10"/>
+        <WAGE empwage="158"/>
+        <MNFBASE manub="10"/>
+        <MANUGROWTH manug="1.078"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="ModernRussia.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="43.936" lat="56.2965"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="63"/>
+        <NAME name="Volgograd"/>
+        <COUNTRY nation="Russia"/>
+        <POPULATION pop="982900"/>
+        <POPGROWTH pg="1.006"/>
+        <CAPITA cap="1906"/>
+        <ECOGROWTH ecog="1.071"/>
+        <RESOURCES res="1.3"/>
+        <GAS gastax="1.15"/>
+        <INF infit="12"/>
+        <SKILL ski="12"/>
+        <WAGE empwage="158"/>
+        <MNFBASE manub="12"/>
+        <MANUGROWTH manug="1.079"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="ModernRussia.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="44.5133" lat="48.708"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="64"/>
+        <NAME name="Tolyatti"/>
+        <COUNTRY nation="Russia"/>
+        <POPULATION pop="724300"/>
+        <POPGROWTH pg="1"/>
+        <CAPITA cap="1906"/>
+        <ECOGROWTH ecog="1.071"/>
+        <RESOURCES res="1.4"/>
+        <GAS gastax="1.15"/>
+        <INF infit="10"/>
+        <SKILL ski="10"/>
+        <WAGE empwage="158"/>
+        <MNFBASE manub="13"/>
+        <MANUGROWTH manug="1.075"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="ModernRussia.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="49.4198" lat="53.5086"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="65"/>
+        <NAME name="Izhevsk"/>
+        <COUNTRY nation="Russia"/>
+        <POPULATION pop="650300"/>
+        <POPGROWTH pg="1.004"/>
+        <CAPITA cap="1906"/>
+        <ECOGROWTH ecog="1.071"/>
+        <RESOURCES res="1.35"/>
+        <GAS gastax="1.15"/>
+        <INF infit="11"/>
+        <SKILL ski="11"/>
+        <WAGE empwage="158"/>
+        <MNFBASE manub="10"/>
+        <MANUGROWTH manug="1.078"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="ModernRussia.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="53.2324" lat="56.8618"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.5</BUYRATE>
+    </City>
+    <City>
+        <ID id="66"/>
+        <NAME name="Istanbul"/>
+        <COUNTRY nation="Ottoman Empire"/>
+        <POPULATION pop="8831800"/>
+        <POPGROWTH pg="1.0251"/>
+        <CAPITA cap="4120"/>
+        <ECOGROWTH ecog="1.07651"/>
+        <RESOURCES res="0.9"/>
+        <GAS gastax="1"/>
+        <INF infit="25"/>
+        <SKILL ski="25"/>
+        <WAGE empwage="343"/>
+        <MNFBASE manub="30"/>
+        <MANUGROWTH manug="1.04328"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="Ottoman.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="28.9783" lat="41.0082"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.25</BUYRATE>
+    </City>
+    <City>
+        <ID id="67"/>
+        <NAME name="Izmir"/>
+        <COUNTRY nation="Ottoman Empire"/>
+        <POPULATION pop="2250100"/>
+        <POPGROWTH pg="1.01449"/>
+        <CAPITA cap="4120"/>
+        <ECOGROWTH ecog="1.07651"/>
+        <RESOURCES res="0.8"/>
+        <GAS gastax="1"/>
+        <INF infit="18"/>
+        <SKILL ski="18"/>
+        <WAGE empwage="343"/>
+        <MNFBASE manub="18"/>
+        <MANUGROWTH manug="1.05744"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="Ottoman.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="27.1428" lat="38.4237"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.38</BUYRATE>
+    </City>
+    <City>
+        <ID id="68"/>
+        <NAME name="Ankara"/>
+        <COUNTRY nation="Ottoman Empire"/>
+        <POPULATION pop="3203400"/>
+        <POPGROWTH pg="1.0274"/>
+        <CAPITA cap="4120"/>
+        <ECOGROWTH ecog="1.07651"/>
+        <RESOURCES res="0.8"/>
+        <GAS gastax="1"/>
+        <INF infit="18"/>
+        <SKILL ski="18"/>
+        <WAGE empwage="343"/>
+        <MNFBASE manub="18"/>
+        <MANUGROWTH manug="1.06631"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="Ottoman.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="32.8597" lat="39.9333"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.38</BUYRATE>
+    </City>
+    <City>
+        <ID id="69"/>
+        <NAME name="Adana"/>
+        <COUNTRY nation="Ottoman Empire"/>
+        <POPULATION pop="1133000"/>
+        <POPGROWTH pg="1.02342"/>
+        <CAPITA cap="4120"/>
+        <ECOGROWTH ecog="1.07651"/>
+        <RESOURCES res="0.7"/>
+        <GAS gastax="1"/>
+        <INF infit="18"/>
+        <SKILL ski="18"/>
+        <WAGE empwage="343"/>
+        <MNFBASE manub="22"/>
+        <MANUGROWTH manug="1.04688"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.2"/>
+        <FLAG flagfile="Ottoman.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS long="35.3308" lat="36.9914"/>
+        <REGION>2</REGION>
+        <BUYRATE>0.38</BUYRATE>
+    </City>
+</CreateCityDB>
