@@ -1848,4 +1848,28 @@
         <REGION>2</REGION>
         <BUYRATE>1</BUYRATE>
     </City>
+    <City>
+        <ID id="78"/>
+        <NAME name="Brno"/>
+        <COUNTRY nation="Austria-Hungary"/>
+        <POPULATION pop="365000"/>
+        <POPGROWTH pg="1.001"/>
+        <CAPITA cap="20"/>
+        <ECOGROWTH ecog="1.001"/>
+        <RESOURCES res="1"/>
+        <GAS gastax="1"/>
+        <INF infit="1"/>
+        <SKILL ski="1"/>
+        <WAGE empwage="8"/>
+        <MNFBASE manub="1"/>
+        <MANUGROWTH manug="1.0"/>
+        <ALIGNMENT align=""/>
+        <GOVERN gov="1"/>
+        <TAX taxrate="1.10"/>
+        <FLAG flagfile="Austria_Hungry.dds"/>
+        <PIC picture="Generic.dds"/>
+        <CORDS lat="48.3774" long="17.5872"/>
+        <REGION>2</REGION>
+        <BUYRATE>1</BUYRATE>
+    </City>
 </CreateCityDB>
