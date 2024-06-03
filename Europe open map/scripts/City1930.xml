@@ -1172,7 +1172,7 @@
         <TAX taxrate="1.25"/>
         <FLAG flagfile="Austria_Hungry.dds"/>
         <PIC picture="Generic.dds"/>
-        <CORDS long="15.9038" lat="48.2081"/>
+        <CORDS long="16.5038" lat="48.2081"/>
         <REGION>2</REGION>
         <BUYRATE>1.268</BUYRATE>
     </City>
