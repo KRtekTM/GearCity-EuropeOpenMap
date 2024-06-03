@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MapInformationLoader>
-    <MapName>Europe Test</MapName>
+    <MapName>Europe Open Map</MapName>
     <Version>1</Version>
-    <AuthorName>Eric Jones</AuthorName>
-    <AuthorLink>www.ventdev.com</AuthorLink>
+    <AuthorName>Eric Jones, Ondřej Kotas</AuthorName>
+    <AuthorLink>www.krtkovo.eu</AuthorLink>
     <MapDesc>Test your skills with the European regional map. This map uses the base city map data, but the game is limited to just Europe.</MapDesc>
     <MapPicture>../media/Maps/Europe Test/mapPicture_EuropeTest.dds</MapPicture>
     <MapType>0</MapType>

@@ -1,5 +1,5 @@
 # GearCity-EuropeOpenMap
-Europe map for Gear City based on Europe Test map from the game.
+Europe Open Map for Gear City based on Europe Test map from the game.
 
 Added cities:
 - Mladá Boleslav (CZ)
